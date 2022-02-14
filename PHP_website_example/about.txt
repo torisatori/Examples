@@ -1,0 +1,9 @@
+This website allows the user to query a database (containing superhero characters) as well as add and delete rows from one of the tables.
+
+About the folders:
+
+character_manager - contains the .php files that create the tables and forms on the website
+create_Database - contains the SQL script for creating and populating the database
+error - HTML files for displaying errors
+model - contains the .php files that interface with the database including the SQL scripts
+view - HTML for the header and footer on all the pages
